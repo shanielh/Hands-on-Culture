@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Shani Elharrar"
+  image = "img/author.jpg"
+  headline = "Reflections on Software Engineering — Building, Leading, and Growing"
+  links = [
+    { email = "mailto:shani@handsonculture.blog" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+    { github = "https://github.com/shanielh" },
+    { linkedin = "https://www.linkedin.com/in/shanielh" },
+    { x-twitter = "https://x.com/shanielh" }
+  ]

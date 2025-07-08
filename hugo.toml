@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en'
+title = 'Hands on Culture'
+theme = 'congo'
+
+[params.author]
+name = "Shani Elharrar"
+# headline = "My Headline"
+bio = "Engineering Group Leader"
+links = [
+	{ twitter = "https://twitter.com/shanielh" },
+	{ github = "https://twitter.com/shanielh" },
+	{ linkedin = "https://twitter.com/shanielh" },
+]
