@@ -21,7 +21,7 @@ journey with this group of people would be more satisfying.
 As the team grew from the four core engineers (who are still at the company!) to ten engineers, cracks in our culture began to show. It's hard to identify differences in culture in the hiring process, it's one thing to say "I want to step up and have ownership", but when it comes to practice, it's not that easy. Looking back, I hadn’t yet understood that the way we hired, onboarded, and even let people go needed to revolve around culture first—well before technical skills. It took me a while to learn that cultural alignment isn’t just important; it’s foundational. From that point on, it becomes dangerously easy to break the company’s DNA, the way people are expected to
 behave and collaborate.
 
-I remember one specific moment. One team teams was racing toward a deadline we'd set
+I remember one specific moment. One team was racing toward a deadline we'd set
 with marketing. At first, everything seemed under control—but as the
 date approached, cracks began to show. Bugs started popping up just days before
 the launch. Requirements shifted at the last minute. The team working on that
